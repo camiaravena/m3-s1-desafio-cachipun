@@ -79,4 +79,3 @@ if (puntajeUsuario === puntajeMaquina) {
         alert(`Lo sentimos, perdiste el juego. \nTu puntaje total es ${puntajeUsuario} y el de la máquina es ${puntajeMaquina}.`);
     }
 
-
